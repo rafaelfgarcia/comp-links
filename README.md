@@ -15,3 +15,6 @@ Links úteis relacionados à área da computação. :point_down:
 
 ### Fóruns
 * [TabNews](https://www.tabnews.com.br/)
+
+### Livros e Apostilas
+* [Programming Notes for Professionals books](https://goalkicker.com/)
