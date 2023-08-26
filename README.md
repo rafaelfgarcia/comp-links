@@ -1,4 +1,4 @@
-# :computer::link: CompLinks
+# CompLinks :computer::rocket::link:
 Links úteis relacionados às áreas da computação e engenharia. :point_down:
 ## Youtubers
 * [Fábio Akita](https://www.youtube.com/@Akitando)
