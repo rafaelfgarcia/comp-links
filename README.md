@@ -1,6 +1,6 @@
 # :computer::link: CompLinks
-Links úteis relacionados à área da computação. :point_down:
-### Youtubers
+Links úteis relacionados às áreas da computação e engenharia. :point_down:
+## Youtubers
 * [Fábio Akita](https://www.youtube.com/@Akitando)
 * [Dias de Dev](https://www.youtube.com/@DiasdeDev)
 * [Mario Souto - Dev Soutinho](https://www.youtube.com/@DevSoutinho)
@@ -12,9 +12,9 @@ Links úteis relacionados à área da computação. :point_down:
 * [Jacob Moura](https://www.youtube.com/@JacobMoura7)
 * [Código Fonte TV](https://www.youtube.com/@codigofontetv)
 * [Sujeito Programador](https://www.youtube.com/@Sujeitoprogramador)
-
-### Fóruns
+* [WR Kits](https://www.youtube.com/@canalwrkits)
+## Fóruns
 * [TabNews](https://www.tabnews.com.br/)
 
-### Livros e Apostilas
+## Livros e Apostilas
 * [Programming Notes for Professionals books](https://goalkicker.com/)
