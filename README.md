@@ -1,5 +1,12 @@
 # CompLinks :computer::rocket::link:
 Links úteis relacionados às áreas da computação e engenharia. :point_down:
+
+## Ferramentas
+### Banco de Dados
+* [DB Diagram](https://dbdiagram.io/)
+### Diagramas
+* [Excalidraw](https://excalidraw.com/)
+
 ## Youtubers
 * [Fábio Akita](https://www.youtube.com/@Akitando)
 * [Dias de Dev](https://www.youtube.com/@DiasdeDev)
@@ -13,6 +20,7 @@ Links úteis relacionados às áreas da computação e engenharia. :point_down:
 * [Código Fonte TV](https://www.youtube.com/@codigofontetv)
 * [Sujeito Programador](https://www.youtube.com/@Sujeitoprogramador)
 * [WR Kits](https://www.youtube.com/@canalwrkits)
+
 ## Fóruns
 * [TabNews](https://www.tabnews.com.br/)
 
