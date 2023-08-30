@@ -6,6 +6,8 @@ Links úteis relacionados às áreas da computação e engenharia. :point_down:
 * [DB Diagram](https://dbdiagram.io/)
 ### Diagramas
 * [Excalidraw](https://excalidraw.com/)
+* [Whimsical](https://whimsical.com/)
+* [Miro](https://miro.com/)
 
 ## Youtubers
 * [Fábio Akita](https://www.youtube.com/@Akitando)
