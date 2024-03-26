@@ -14,6 +14,9 @@ Links úteis relacionados às áreas da computação e engenharia. :point_down:
 ### CAD
 * [Tinkercad](https://www.tinkercad.com/)
 
+### README
+* [readme.so](https://readme.so/pt)
+
 ## Fóruns
 * [DEV Community](https://dev.to/)
 * [TabNews](https://www.tabnews.com.br/)
@@ -25,13 +28,3 @@ Links úteis relacionados às áreas da computação e engenharia. :point_down:
 * [Instructables](https://www.instructables.com/)
 * [Make](https://makezine.com/)
 * [Make: Projects](https://makeprojects.com/)
-
-## Youtubers
-### Computação
-* [Fábio Akita](https://www.youtube.com/@Akitando)
-* [Mario Souto](https://www.youtube.com/@DevSoutinho)
-* [Diolinux](https://www.youtube.com/@Diolinux)
-* [Filipe Deschamps](https://www.youtube.com/@FilipeDeschamps)
-* [Código Fonte TV](https://www.youtube.com/@codigofontetv)
-### Engenharia
-* [WR Kits](https://www.youtube.com/@canalwrkits)
